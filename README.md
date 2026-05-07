@@ -19,6 +19,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=gamzedrn&icon=0&color=7)](https://visitcount.itsvg.in)
-
+![Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=gamzedrn&color=blue)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
